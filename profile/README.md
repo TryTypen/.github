@@ -10,7 +10,7 @@
 
 A beautiful, simple home for your ideas, stories, and everything worth sharing.
 
-[Website](https://typen.blog) · [Explore blogs](https://typen.blog/examples) · [Help Center](https://help.typen.blog) · [System Status](https://status.typen.blog)
+[Website](https://typen.blog) · [Help Center](https://help.typen.blog) · [System Status](https://status.typen.blog)
 
 </div>
 
